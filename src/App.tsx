@@ -153,7 +153,7 @@ function App() {
                 transition={{ delay: 0.5 }}
               >
                 <motion.a 
-                  href="https://github.com" 
+                  href="https://github.com/klu2200031399" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-gray-800 p-3 rounded-full hover:bg-gray-700 transition-colors"
@@ -163,7 +163,7 @@ function App() {
                   <Github className="w-6 h-6" />
                 </motion.a>
                 <motion.a 
-                  href="https://linkedin.com" 
+                  href="https://www.linkedin.com/in/yogeendra-kajjam-501388253/" 
                   target="_blank" 
                   rel="noopener noreferrer"
                   className="bg-gray-800 p-3 rounded-full hover:bg-gray-700 transition-colors"
