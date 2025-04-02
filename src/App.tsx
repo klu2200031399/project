@@ -181,7 +181,7 @@ function App() {
                   <Mail className="w-6 h-6" />
                 </motion.a>
                 <motion.a 
-                  href="/resume.pdf"
+                  href="https://drive.google.com/file/d/1CY-VLtTpQY2eCE31WvYhOvb8nZCZRstG/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="bg-gray-800 p-3 rounded-full hover:bg-gray-700 transition-colors"
