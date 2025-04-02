@@ -5,19 +5,19 @@ import { Github, Linkedin, Mail, ExternalLink, Award, GraduationCap, Briefcase, 
 function App() {
   const certifications = [
     {
-      title: "AWS Certified Cloud Practitioner",
-      issuer: "Amazon Web Services",
-      credlyLink: "https://www.credly.com/org/amazon-web-services"
+      title: "Red Hat Certified Enterprise Application Developer",
+      issuer: "Red Hat",
+      credlyLink: "https://www.credly.com/badges/182169e2-9dc5-473f-aa5f-a228076ba5a1/public_url"
     },
     {
-      title: "Google Cloud Digital Leader",
-      issuer: "Google Cloud",
-      credlyLink: "https://www.credly.com/org/google"
+      title: "Multicloud Network Associate",
+      issuer: "Aviatrix",
+      credlyLink: "https://www.credly.com/badges/922a6be4-bd8e-46a7-b802-72e09335a2df/public_url"
     },
     {
       title: "Microsoft Azure Fundamentals",
       issuer: "Microsoft",
-      credlyLink: "https://www.credly.com/org/microsoft"
+      credlyLink: "https://drive.google.com/file/d/1JKlIVuwq9PsrxjMdhUe9uMqkjg69D1oo/view?usp=sharing"
     }
   ];
 
